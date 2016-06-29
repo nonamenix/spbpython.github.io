@@ -21,6 +21,6 @@ $(document).ready(function () {
 //    sectionsColor: ['#C63D0F', '#1BBC9B', '#7E8F7C'],
     navigation: true,
     navigationPosition: 'right',
-    navigationTooltips: ['First', 'Second', 'Third']
+    navigationTooltips: ['Кто мы?', 'Общаемся в оффлайне', 'Общаемся в онлайне']
   })
 })

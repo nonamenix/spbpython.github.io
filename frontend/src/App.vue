@@ -18,10 +18,9 @@
             <a href="http://www.meetup.com/spbpython/">
               <img class="meetup" target="_blank" src="./assets/networks/meetup.png" alt="">
             </a>
-
-            <!--<p>-->
-              <!--Расписание встреч на <a target="_blank" href="http://www.meetup.com/spbpython/">Meetup.com</a>-->
-            <!--</p>-->
+            <p>
+              Расписание встреч на <a target="_blank" href="http://www.meetup.com/spbpython/">Meetup.com</a>
+            </p>
           </div>
         </div>
       </div>

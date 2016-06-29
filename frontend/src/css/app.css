@@ -6,8 +6,12 @@ html {
 body {
   height: 100%;
   font-family: 'Roboto', sans-serif;
+
+}
+body, a {
   color: #fff;
 }
+
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Roboto Condensed', sans-serif;
@@ -19,12 +23,9 @@ h1 {
 }
 
 p {
-  font-size: 1.25em;
+  font-size: 1.75em;
 }
 
-a {
-  color: #fff;
-}
 
 /* Centered texts in each section
 * --------------------------------------- */
@@ -32,16 +33,17 @@ a {
 .section {
   text-align: center;
   background-size: cover;
+  height: 100%;
 }
 .slide {
   background-size: cover;
 }
 
 .intro {
-  width: 100%;
+
   padding: 30px 0 50px 0;
-  background-color: rgba(255,255,255,.5);
-  text-shadow: 0.1em 0.1em 0.2em #000;
+  background-color: rgba(255,255,255,.3);
+  text-shadow: 0.1em 0.1em 0.2em #333;
 }
 
 /* Overwriting styles for control arrows for slides
@@ -74,4 +76,9 @@ a {
 }
 .google-plus {
   width: 150px;
+}
+
+
+.fp-tableCell {
+  vertical-align: bottom;
 }
